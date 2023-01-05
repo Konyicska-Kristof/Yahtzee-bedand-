@@ -1,0 +1,5 @@
+On Singleplayer you play alone.
+On Multiplayer you compete against other players.
+Determines the number of opponents to play against, if you're playing on Multiplayer mode.NMinimum: 1NMaximum: 5
+Free choice: An additional Yahtzee could be used in any of the Lower Section categories, or in the corresponding Upper Section box that hasn't already been used. If all the appropiate boxes are used, an unused Upper Section category must be chosen instead, scoring 0.#Additional Yahtzees also grant you a Yahtzee bonus of 100 points, if the Yahtzee category has been used already AND its score isn't zero!
+The number of times a player can reroll their dice.
